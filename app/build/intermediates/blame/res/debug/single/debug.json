@@ -1,0 +1,298 @@
+[
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_user.png.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\mipmap-hdpi\\user.png"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ordered.png.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\mipmap-xhdpi\\ordered.png"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_mylike.png.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\mipmap-hdpi\\mylike.png"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_icon_next.png.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\mipmap-hdpi\\icon_next.png"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_search_music.xml.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\layout\\item_search_music.xml"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ph.png.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\mipmap-hdpi\\ph.png"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_home_music.xml.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\layout\\item_home_music.xml"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item.xml.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_a1.png.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\mipmap-hdpi\\a1.png"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my.xml.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\layout\\activity_my.xml"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shap_point_normal.xml.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\drawable\\shap_point_normal.xml"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_music.png.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\mipmap-hdpi\\music.png"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_icon_last.png.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\mipmap-hdpi\\icon_last.png"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_logo.jpg.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\drawable\\icon_logo.jpg"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_my.png.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\mipmap-hdpi\\my.png"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_lb1.png.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\mipmap-hdpi\\lb1.png"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_yf.png.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\mipmap-hdpi\\yf.png"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_recommend_music.xml.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\layout\\item_recommend_music.xml"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_search.png.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\mipmap-hdpi\\search.png"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_create_list.xml.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\layout\\activity_create_list.xml"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_tel.png.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\mipmap-hdpi\\tel.png"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_menu.xml.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\layout\\menu.xml"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ball.png.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\drawable\\ball.png"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shap_edit_bg.xml.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\drawable\\shap_edit_bg.xml"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_bg2.jpg.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\mipmap-hdpi\\bg2.jpg"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_alpha_z.xml.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\anim\\alpha_z.xml"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cp.png.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\drawable\\cp.png"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_lb2.png.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\mipmap-hdpi\\lb2.png"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_del.png.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\mipmap-hdpi\\del.png"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_lrc.xml.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\layout\\activity_lrc.xml"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_icon_song.png.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\mipmap-hdpi\\icon_song.png"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_login.jpg.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\mipmap-hdpi\\login.jpg"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_add.png.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\mipmap-hdpi\\add.png"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\xml_network_security_config.xml.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_email.png.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\mipmap-hdpi\\email.png"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_recommend.xml.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\layout\\activity_recommend.xml"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_icon_play.png.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\mipmap-hdpi\\icon_play.png"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shap_point_selected.xml.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\drawable\\shap_point_selected.xml"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_divider.xml.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\drawable\\divider.xml"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shap_circle.xml.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\drawable\\shap_circle.xml"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_bg3.jpg.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\mipmap-hdpi\\bg3.jpg"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_reg.xml.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\layout\\activity_reg.xml"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_unordered.png.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\mipmap-xhdpi\\unordered.png"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_create_playlist.xml.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\layout\\dialog_create_playlist.xml"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_cicle.png.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\mipmap-xhdpi\\cicle.png"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home.png.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\drawable\\home.png"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my_like.xml.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\layout\\activity_my_like.xml"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_tj.png.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\mipmap-hdpi\\tj.png"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_mylike_music.xml.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\layout\\item_mylike_music.xml"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_login1.jpg.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\mipmap-hdpi\\login1.jpg"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_lb3.png.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\mipmap-hdpi\\lb3.png"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_icon_pause.png.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\mipmap-hdpi\\icon_pause.png"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_like.png.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\mipmap-hdpi\\like.png"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_roraterepeat.xml.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\anim\\roraterepeat.xml"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_password.png.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\mipmap-hdpi\\password.png"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape.xml.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\drawable\\shape.xml"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ej.png.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\mipmap-hdpi\\ej.png"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_search.xml.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "E:\\aaAndroid\\musicApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\aaAndroid\\musicApp\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    }
+]

@@ -1,0 +1,144 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.app.music"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:4:5-81
+11-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:4:22-78
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:5:5-80
+12-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:5:22-77
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:6:5-75
+13-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:6:22-73
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:7:5-66
+14-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:7:22-64
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:8:5-78
+15-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:8:22-76
+16
+17    <application
+17-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:9:5-63:19
+18        android:allowBackup="true"
+18-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:10:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.3.1] C:\Users\金润涛\.gradle\caches\transforms-2\files-2.1\c24177ae83091978e5c4ae83bccf2f01\core-1.3.1\AndroidManifest.xml:24:18-86
+20        android:debuggable="true"
+21        android:extractNativeLibs="false"
+22        android:icon="@mipmap/ic_launcher"
+22-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:11:9-43
+23        android:label="我的播放音乐"
+23-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:12:9-31
+24        android:networkSecurityConfig="@xml/network_security_config"
+24-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:16:9-69
+25        android:requestLegacyExternalStorage="true"
+25-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:15:9-52
+26        android:roundIcon="@mipmap/ic_launcher"
+26-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:13:9-48
+27        android:supportsRtl="true"
+27-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:14:9-35
+28        android:testOnly="true"
+29        android:theme="@style/Theme.dunkmusic" >
+29-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:17:9-47
+30        <activity
+30-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:18:9-24:20
+31            android:name="com.app.music.activity.MyLikeActivity"
+31-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:18:19-71
+32            android:exported="true"
+32-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:20:13-36
+33            android:parentActivityName="com.app.music.activity.MyActivity" >
+33-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:19:13-75
+34            <meta-data
+34-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:21:13-23:69
+35                android:name="android.support.PARENT_ACTIVITY"
+35-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:22:17-63
+36                android:value="com.app.music.activity.MyActivity" />
+36-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:23:17-66
+37        </activity>
+38        <activity
+38-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:27:9-34:20
+39            android:name="com.app.music.activity.MyActivity"
+39-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:28:13-61
+40            android:exported="true"
+40-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:30:13-36
+41            android:parentActivityName="com.app.music.activity.MainActivity" >
+41-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:29:13-77
+42            <meta-data
+42-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:21:13-23:69
+43                android:name="android.support.PARENT_ACTIVITY"
+43-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:22:17-63
+44                android:value="com.app.music.activity.MainActivity" />
+44-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:23:17-66
+45        </activity>
+46        <activity
+46-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:35:9-42:20
+47            android:name="com.app.music.activity.LrcActivity"
+47-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:36:13-62
+48            android:exported="true"
+48-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:38:13-36
+49            android:parentActivityName="com.app.music.activity.MainActivity" >
+49-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:37:13-77
+50            <meta-data
+50-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:21:13-23:69
+51                android:name="android.support.PARENT_ACTIVITY"
+51-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:22:17-63
+52                android:value="com.app.music.activity.MainActivity" />
+52-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:23:17-66
+53        </activity>
+54        <!-- <activity -->
+55        <!-- android:name="com.app.music.activity.MainActivity" -->
+56        <!-- android:exported="true" -->
+57        <!-- android:theme="@style/Theme.AppCompat.Light.NoActionBar" /> -->
+58        <activity
+58-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:47:9-49:72
+59            android:name="com.app.music.activity.RegActivity"
+59-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:48:13-62
+60            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+60-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:49:13-69
+61        <activity
+61-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:50:9-52:72
+62            android:name="com.app.music.activity.CreateListActivity"
+62-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:51:13-69
+63            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+63-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:52:13-69
+64        <activity
+64-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:53:9-62:20
+65            android:name="com.app.music.activity.MainActivity"
+65-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:54:13-63
+66            android:exported="true"
+66-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:56:13-36
+67            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+67-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:55:13-69
+68            <intent-filter>
+68-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:57:13-61:29
+69                <action android:name="android.intent.action.MAIN" />
+69-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:58:17-69
+69-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:58:25-66
+70
+71                <category android:name="android.intent.category.LAUNCHER" />
+71-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:60:17-77
+71-->E:\aaAndroid\musicApp\app\src\main\AndroidManifest.xml:60:27-74
+72            </intent-filter>
+73        </activity>
+74
+75        <service android:name="com.liulishuo.filedownloader.services.FileDownloadService$SharedMainProcessService" />
+75-->[com.liulishuo.filedownloader:library:1.6.4] C:\Users\金润涛\.gradle\caches\transforms-2\files-2.1\b9655999628d238353ce2c9fdab344fd\jetified-library-1.6.4\AndroidManifest.xml:12:9-118
+75-->[com.liulishuo.filedownloader:library:1.6.4] C:\Users\金润涛\.gradle\caches\transforms-2\files-2.1\b9655999628d238353ce2c9fdab344fd\jetified-library-1.6.4\AndroidManifest.xml:12:18-115
+76        <service
+76-->[com.liulishuo.filedownloader:library:1.6.4] C:\Users\金润涛\.gradle\caches\transforms-2\files-2.1\b9655999628d238353ce2c9fdab344fd\jetified-library-1.6.4\AndroidManifest.xml:13:9-15:49
+77            android:name="com.liulishuo.filedownloader.services.FileDownloadService$SeparateProcessService"
+77-->[com.liulishuo.filedownloader:library:1.6.4] C:\Users\金润涛\.gradle\caches\transforms-2\files-2.1\b9655999628d238353ce2c9fdab344fd\jetified-library-1.6.4\AndroidManifest.xml:14:13-108
+78            android:process=":filedownloader" />
+78-->[com.liulishuo.filedownloader:library:1.6.4] C:\Users\金润涛\.gradle\caches\transforms-2\files-2.1\b9655999628d238353ce2c9fdab344fd\jetified-library-1.6.4\AndroidManifest.xml:15:13-46
+79    </application>
+80
+81</manifest>

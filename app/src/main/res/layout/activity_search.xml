@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/bg2"
+    tools:context=".activity.SearchActivity">
+
+    <LinearLayout
+        android:id="@+id/music_search_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="10dp"
+        android:orientation="horizontal">
+
+
+        <EditText
+            android:id="@+id/music_search_et"
+            android:layout_width="0dp"
+            android:layout_weight="8"
+            android:layout_height="30dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="10dp"
+            android:background="@null"
+            android:hint="请输入歌名/歌手的信息"
+            android:maxLines="1"
+            android:textColorHint="#FFFDFF"
+            android:textSize="14sp" />
+
+        <ImageView
+            android:id="@+id/music_search_iv"
+            android:layout_width="0dp"
+            android:layout_weight="2"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_toLeftOf="@+id/edt_search"
+            android:src="@mipmap/search" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/music_hotsearch_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/music_search_layout"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="10dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="热门搜索"></TextView>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/hotsearch1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/music_hotsearch_layout"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:id="@+id/hot1"
+            android:layout_width="wrap_content"
+            android:layout_height="36dp"
+            android:layout_marginLeft="10dp"
+
+            android:padding="10dp"
+            android:text="张靓颖"
+            android:textColor="#FFFDFF"></TextView>
+
+        <TextView
+            android:id="@+id/hot2"
+            android:layout_width="wrap_content"
+            android:layout_height="36dp"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/hot1"
+
+            android:padding="10dp"
+            android:text="情人"
+            android:textColor="#FFFDFF"></TextView>
+
+        <TextView
+            android:id="@+id/hot3"
+            android:layout_width="wrap_content"
+            android:layout_height="36dp"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/hot2"
+
+            android:padding="10dp"
+            android:text="It Is OK"
+            android:textColor="#FFFDFF"></TextView>
+
+        <TextView
+            android:id="@+id/hot4"
+            android:layout_width="wrap_content"
+            android:layout_height="36dp"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/hot3"
+
+            android:padding="10dp"
+            android:text="往后余生"
+            android:textColor="#FFFDFF"></TextView>
+
+        <TextView
+            android:id="@+id/hot5"
+            android:layout_width="wrap_content"
+            android:layout_height="36dp"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/hot4"
+
+            android:padding="10dp"
+            android:text="毛不易"
+            android:textColor="#FFFDFF"></TextView>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/hotsearch2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/hotsearch1"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:id="@+id/hot6"
+            android:layout_width="wrap_content"
+            android:layout_height="36dp"
+            android:layout_marginLeft="10dp"
+
+            android:padding="10dp"
+            android:text="dream of possisable"
+            android:textColor="#FFFDFF"></TextView>
+
+        <TextView
+            android:id="@+id/hot7"
+            android:layout_width="wrap_content"
+            android:layout_height="36dp"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/hot6"
+
+            android:padding="10dp"
+            android:text="薛之谦"
+            android:textColor="#FFFDFF"></TextView>
+
+        <TextView
+            android:id="@+id/hot8"
+            android:layout_width="wrap_content"
+            android:layout_height="36dp"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/hot7"
+
+            android:padding="10dp"
+            android:text="那些年"
+            android:textColor="#FFFDFF"></TextView>
+
+        <TextView
+            android:id="@+id/hot9"
+            android:layout_width="wrap_content"
+            android:layout_height="36dp"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/hot8"
+
+            android:padding="10dp"
+            android:text="第一天"
+            android:textColor="#FFFDFF"></TextView>
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/hotsearch3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/hotsearch2"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:id="@+id/hot10"
+            android:layout_width="wrap_content"
+            android:layout_height="36dp"
+            android:layout_marginLeft="10dp"
+
+            android:padding="10dp"
+            android:text="世间美好与你环环相扣"
+            android:textColor="#FFFDFF"></TextView>
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/music_search_list"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/hotsearch3"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="10dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="歌曲列表"></TextView>
+    </LinearLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/search_music_rv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/music_search_list"
+        android:layout_marginTop="9dp"></androidx.recyclerview.widget.RecyclerView>
+
+</RelativeLayout>
